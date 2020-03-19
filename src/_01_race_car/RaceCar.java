@@ -34,7 +34,6 @@ public class RaceCar {
 	public String getBrand() {
 		return this.brand;
 	}
-	
 	/**
 	 * Checks if car need a pit stop
 	 * @return needsPitStop
